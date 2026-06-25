@@ -1,66 +1,57 @@
-# Hi, I'm Thuy Van 👋
+# Thuy Van
 
-### AI & Machine Learning Enthusiast
+AI / Machine Learning enthusiast with interests in machine learning, deep learning, natural language processing, recommendation systems, and data analytics.
 
-Passionate about building intelligent systems using:
-
-🤖 Machine Learning  
-🧠 Deep Learning  
-💬 Natural Language Processing  
-🎵 Recommendation Systems  
-📊 Data Analytics  
-
-Currently focused on applying AI solutions to real-world business problems through data-driven products.
+I enjoy building practical AI applications from data preprocessing and model training to deployment and user-facing demos.
 
 ---
 
-## 🌐 Connect With Me
+## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thuyvanai105/)
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/panie105)
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenthuyvann105@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/thuyvanai105/
+- Email: nguyenthuyvann105@gmail.com
+- Facebook: https://www.facebook.com/panie105
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+**Languages**  
+Python, SQL, Java
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+**Machine Learning & AI**  
+PyTorch, Scikit-learn, Transformers, PhoBERT, SASRec
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+**Data Processing & Analytics**  
+Pandas, NumPy, Streamlit
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+**Backend & Deployment**  
+FastAPI, REST API, Spring Boot
 
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thuyvan105&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thuyvan105&layout=compact&theme=tokyonight)
+**Data Engineering & Databases**  
+Apache Spark, Kafka, MySQL, MongoDB
 
 ---
 
-## 🎯 Areas of Interest
+## Featured Projects
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Recommendation Systems
-- Data Analytics
+| Project | Description | Tech |
+|---|---|---|
+| Spotify Recommendation System | Music recommendation system using SASRec with Spotify API integration | PyTorch, SASRec, FastAPI, Spotify API |
+| Vietnamese ABSA with PhoBERT | Aspect-Based Sentiment Analysis for Vietnamese product reviews | PyTorch, Transformers, PhoBERT |
+| Shopee Product Recommendation System | Sentiment-aware product recommendation and shop comparison system | NLP, ABSA, Streamlit |
+| Real-Time Crypto Analytics | Real-time cryptocurrency analytics pipeline | Kafka, Spark Streaming, Streamlit |
 
 ---
 
-⭐ Always learning, building, and exploring new AI technologies.
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thuyvan105&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thuyvan105&layout=compact&theme=default)
+
+---
+
+## Current Interests
+
+Machine Learning, Deep Learning, Natural Language Processing, Recommendation Systems, and AI application deployment.
