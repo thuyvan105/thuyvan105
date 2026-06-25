@@ -61,17 +61,8 @@ I enjoy learning new models, experimenting with ideas, and building complete AI 
 
 ## Connect With Me
 
-<p align="left">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thuyvanai105/)
 
-<a href="https://www.linkedin.com/in/thuyvanai105/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/panie105)
 
-<a href="https://www.facebook.com/panie105" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nguyenthuyvann105@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenthuyvann105@gmail.com)
