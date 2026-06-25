@@ -8,11 +8,6 @@
 <b>Machine Learning • Deep Learning • NLP • Recommendation Systems</b>
 </p>
 
-<p align="center">
-Building practical AI applications with PyTorch, Transformers, FastAPI and Streamlit.
-</p>
----
-
 ## About Me
 
 I'm an AI enthusiast with a strong interest in machine learning, deep learning, natural language processing, and recommendation systems.
@@ -66,6 +61,18 @@ I enjoy learning new models, experimenting with ideas, and building complete AI 
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/thuyvanai105/
-- Facebook: https://www.facebook.com/panie105
-- Email: nguyenthuyvann105@gmail.com
+<p align="left">
+
+<a href="https://www.linkedin.com/in/thuyvanai105/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/panie105" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="mailto:nguyenthuyvann105@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
