@@ -1,6 +1,6 @@
 <p align="center">
   <img src="./assets/coding-bunny.gif" width="320">
-</p>
+</p> 
 
 <h1 align="center">Thuy Van</h1>
 
