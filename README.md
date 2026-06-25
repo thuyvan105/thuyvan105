@@ -1,109 +1,66 @@
 # Hi, I'm Thuy Van 👋
 
-Aspiring Data Scientist / Machine Learning Engineer  
-I build recommendation systems, NLP models, analytics dashboards, and real-time data applications.
+### AI & Machine Learning Enthusiast
+
+Passionate about building intelligent systems using:
+
+🤖 Machine Learning  
+🧠 Deep Learning  
+💬 Natural Language Processing  
+🎵 Recommendation Systems  
+📊 Data Analytics  
+
+Currently focused on applying AI solutions to real-world business problems through data-driven products.
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/thuyvanai105/)  
-[Email](nguyenthuyvann105@gmail.com)
-[Facebook](https://www.facebook.com/panie105)  
-[GitHub](https://github.com/thuyvan105)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thuyvanai105/)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/panie105)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenthuyvann105@gmail.com)
 
 ---
 
 ## 🛠 Tech Stack
 
-### AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-### NLP & Recommendation Systems
-![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Recommendation Systems](https://img.shields.io/badge/Recommendation%20Systems-FF6F00?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-### Data Processing & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-00A6D6?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
-### AI Apps & Deployment
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
-
-### Big Data & Tools
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-### Additional Backend Knowledge
-Java • Spring Boot • MySQL • MongoDB
-
-
-## 🚀 Featured Projects
-
-### 🎵 Spotify Recommendation System
-SASRec-based music recommendation system with Spotify API integration.
-
-**Tech:** PyTorch, SASRec, FastAPI, React, Spotify API  
-**Features:** Next-song recommendation, playlist generation, listening history, Spotify-like UI  
-
-[Repository](https://github.com/thuyvan105/spotify-sasrec-recommendation-system)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
-### 🛒 Shopee Product Recommendation System
-E-commerce recommendation system using product reviews and sentiment analysis.
+## 📊 GitHub Statistics
 
-**Tech:** Python, NLP, ABSA, Streamlit, Pandas  
-**Features:** Product scoring, shop comparison, sentiment-based ranking  
-
----
-
-### 🇻🇳 Vietnamese ABSA with PhoBERT
-Aspect-Based Sentiment Analysis for Vietnamese product reviews.
-
-**Tech:** PhoBERT, PyTorch, Transformers, Multi-task Learning  
-**Features:** Aspect classification, sentiment classification, hybrid model  
-
----
-
-### 📈 Real-time Crypto Analytics
-Real-time crypto market analytics pipeline.
-
-**Tech:** Kafka, Spark Streaming, Python, Streamlit  
-**Features:** Live price stream, window aggregation, dashboard visualization  
-
----
-
-## 📊 GitHub Stats
-
-![Thuy Van's GitHub stats](https://github-readme-stats.vercel.app/api?username=thuyvan105&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thuyvan105&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thuyvan105&layout=compact&theme=tokyonight)
 
 ---
 
-## 📌 Current Focus
+## 🎯 Areas of Interest
 
-- Recommendation Systems
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
 - Natural Language Processing
+- Recommendation Systems
 - Data Analytics
-- Machine Learning Deployment
 
 ---
 
-## 📫 Contact
-
-Email: your-email@gmail.com  
-LinkedIn: https://linkedin.com/in/your-linkedin
+⭐ Always learning, building, and exploring new AI technologies.
