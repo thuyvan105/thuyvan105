@@ -71,7 +71,7 @@ I enjoy learning new models, experimenting with ideas, and building complete AI 
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="mailto:nguyenthuyvann105@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nguyenthuyvann105@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
