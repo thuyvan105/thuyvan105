@@ -1,28 +1,24 @@
 <p align="center">
-  <img src="./assets/coding-bunny.gif" width="320">
+  <img src="./assets/coding-bunny.gif" width="280">
 </p>
 
 <h1 align="center">Thuy Van</h1>
 
-<b align="center">
-Machine Learning • Deep Learning • NLP • Recommendation Systems
-</b>
+<p align="center">
+<b>Machine Learning • Deep Learning • NLP • Recommendation Systems</b>
+</p>
 
+<p align="center">
+Building practical AI applications with PyTorch, Transformers, FastAPI and Streamlit.
+</p>
 ---
 
 ## About Me
 
-I'm passionate about building AI applications that solve real-world problems through data.
+I'm an AI enthusiast with a strong interest in machine learning, deep learning, natural language processing, and recommendation systems.
 
-My interests include:
+I enjoy learning new models, experimenting with ideas, and building complete AI applications—from data preprocessing and model training to deployment and interactive demos.
 
-- Machine Learning & Deep Learning
-- Natural Language Processing (NLP)
-- Recommendation Systems
-- Data Analytics
-- AI-powered Applications
-
-I enjoy turning research ideas into end-to-end products, from data preprocessing and model training to backend APIs and interactive applications.
 
 ---
 
@@ -55,17 +51,6 @@ I enjoy turning research ideas into end-to-end products, from data preprocessing
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
----
-
-## Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🎵 **Spotify Recommendation System** | Sequential music recommendation using SASRec with Spotify API integration. |
-| 🛍️ **Shopee Product Recommendation** | Product recommendation based on Vietnamese ABSA and review analytics. |
-| 💬 **Vietnamese ABSA with PhoBERT** | Multi-task and hybrid models for aspect-based sentiment analysis. |
-| 📈 **Real-time Crypto Analytics** | Streaming analytics dashboard built with Kafka, Spark Streaming, and Streamlit. |
 
 ---
 
