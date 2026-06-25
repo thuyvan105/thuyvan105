@@ -17,38 +17,32 @@ I enjoy building practical AI applications from data preprocessing and model tra
 ## Tech Stack
 
 **Languages**  
-Python, SQL, Java
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 **Machine Learning & AI**  
-PyTorch, Scikit-learn, Transformers, PhoBERT, SASRec
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![PhoBERT](https://img.shields.io/badge/PhoBERT-0052CC?style=flat)
+![SASRec](https://img.shields.io/badge/SASRec-6A5ACD?style=flat)
 
 **Data Processing & Analytics**  
-Pandas, NumPy, Streamlit
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 **Backend & Deployment**  
-FastAPI, REST API, Spring Boot
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
 **Data Engineering & Databases**  
-Apache Spark, Kafka, MySQL, MongoDB
-
----
-
-## Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| Spotify Recommendation System | Music recommendation system using SASRec with Spotify API integration | PyTorch, SASRec, FastAPI, Spotify API |
-| Vietnamese ABSA with PhoBERT | Aspect-Based Sentiment Analysis for Vietnamese product reviews | PyTorch, Transformers, PhoBERT |
-| Shopee Product Recommendation System | Sentiment-aware product recommendation and shop comparison system | NLP, ABSA, Streamlit |
-| Real-Time Crypto Analytics | Real-time cryptocurrency analytics pipeline | Kafka, Spark Streaming, Streamlit |
-
----
-
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thuyvan105&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thuyvan105&layout=compact&theme=default)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
