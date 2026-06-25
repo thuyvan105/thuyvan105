@@ -1,16 +1,20 @@
-# Thuy Van
+<p align="center">
+  <img src="./assets/coding-bunny.gif" width="850"/>
+</p>
 
-AI / Machine Learning enthusiast with interests in machine learning, deep learning, natural language processing, recommendation systems, and data analytics.
+<h1 align="center">Thuy Van</h1>
 
-I enjoy building practical AI applications from data preprocessing and model training to deployment and user-facing demos.
+<p align="center">
+AI / Machine Learning · NLP · Recommendation Systems
+</p>
 
 ---
 
-## Contact
+## About
 
-- LinkedIn: https://www.linkedin.com/in/thuyvanai105/
-- Email: nguyenthuyvann105@gmail.com
-- Facebook: https://www.facebook.com/panie105
+I am interested in building practical AI systems, especially in machine learning, deep learning, natural language processing, recommendation systems, and data analytics.
+
+My projects usually cover the full workflow from data preprocessing and model training to backend APIs, dashboards, and user-facing demos.
 
 ---
 
@@ -28,12 +32,12 @@ I enjoy building practical AI applications from data preprocessing and model tra
 ![PhoBERT](https://img.shields.io/badge/PhoBERT-0052CC?style=flat)
 ![SASRec](https://img.shields.io/badge/SASRec-6A5ACD?style=flat)
 
-**Data Processing & Analytics**  
+**Data & Analytics**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-**Backend & Deployment**  
+**Deployment & Backend**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
@@ -46,6 +50,8 @@ I enjoy building practical AI applications from data preprocessing and model tra
 
 ---
 
-## Current Interests
+## Contact
 
-Machine Learning, Deep Learning, Natural Language Processing, Recommendation Systems, and AI application deployment.
+- LinkedIn: https://www.linkedin.com/in/thuyvanai105/
+- Email: nguyenthuyvann105@gmail.com
+- Facebook: https://www.facebook.com/panie105
